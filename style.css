@@ -6,9 +6,9 @@
     background-color: #ffc846;
     border-radius: 50%;
     padding: 4px;
-    margin-left: 20px;
-    width: 26px;
-    height: 26px;
+    margin-left: 6px;
+    width: 22px;
+    height: 23px;
     font-size: 17px;
     line-height: 20px;
     margin-bottom: 6px;
@@ -17,9 +17,9 @@
     background-color: #ffc846;
     border-radius: 50%;
     padding: 4px;
-    margin-left: 20px;
-    width: 26px;
-    height: 26px;
+    margin-left: 8px;
+    width: 22px;
+    height: 22px;
     font-size: 17px;
     line-height: 20px;
     margin-bottom: 6px;
@@ -135,7 +135,7 @@
 }
 .byjus{
     margin-bottom: 90px;
-    height: 600px;
+    height: 528px;
     border-radius: 10px;
     background-color: #f2f2f2;
     padding: 50px 20px;
@@ -152,7 +152,7 @@
 }
 .sanitha{
     position: absolute;
-    top: 803px;
+    top: 824px;
     left: 50%;
     transform: translateX(-50%);
     padding: 5px 20px;
@@ -187,13 +187,13 @@
 }
 .highfire{
     
-    max-width: 111px;
+    max-width: 104px;
     position: relative;
 }
 .textee{
     letter-spacing: normal;
     text-align: center;
-    font-size: 11px;
+    font-size: 9px;
     display: block;
     font-weight: normal;
     font-stretch: normal;
@@ -211,7 +211,7 @@
     position: relative;
     margin-top: 20px;
     justify-content: space-evenly;
-    right: 100px;
+    right: 67px;
 }
 .teacher{
     max-width: 220px;
@@ -221,7 +221,7 @@
 }
 
 .section{
-    margin-top: 40px;
+    margin-top: -44px;
     justify-content: space-evenly;
     display: flex;
     align-items: center;
@@ -229,7 +229,7 @@
 }
 .texte{
     text-align: center;
-    font-size: 11px;
+    font-size: 9px;
     display: block;
     font-weight: normal;
     font-stretch: normal;
@@ -240,11 +240,11 @@
     margin: 10px 0;
 }
 .leftimgcard{
-    max-width: 220px;
+    max-width: 206px;
     vertical-align: middle;
 }
 .rightimge{
-    width: 150px;
+    width: 132px;
 }
 .advantages{
     padding: 30px 0;
