@@ -152,7 +152,7 @@
 }
 .sanitha{
     position: absolute;
-    top: 740px;
+    top: 803px;
     left: 50%;
     transform: translateX(-50%);
     padding: 5px 20px;
@@ -187,7 +187,7 @@
 }
 .highfire{
     
-    max-width: 140px;
+    max-width: 111px;
     position: relative;
 }
 .textee{
@@ -202,7 +202,7 @@
 }
 .rightimage{
     position: relative;
-    left: 136px;
+    left: 115px;
     bottom: 159px;
 }
 .leftimage{
@@ -244,7 +244,7 @@
     vertical-align: middle;
 }
 .rightimge{
-    width: 166px;
+    width: 150px;
 }
 .advantages{
     padding: 30px 0;
